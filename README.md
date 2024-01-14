@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @atufaakhtar
-- 👀 I’m interested in computer science
-- 😌 I know python
-- 😌 I know C / C++
-- 😌 I know Java
-- 🌱 I’m currently learning web development using java
+- 👀 I’m persuing Bachelor of Technology (Computer Science and Engineering) 
+- 😌 I know python , C, C++ and Java
+- 🌱 I’m currently learning web development 
 - 📫  email me at atufaakhtar123@gmail.com
 
 <!---
